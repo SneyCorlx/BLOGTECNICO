@@ -150,6 +150,8 @@ article{
     padding-bottom: 40px;
     box-shadow: -10px 0 20px -30px black;
     border-radius: 6px;
+    position: relative;
+    overflow: hidden;
 }
 
 article:before{
@@ -160,5 +162,4 @@ article:before{
     top: 0;
     left: 0;
     background: #46a2fd;
-    
 }
